@@ -6,6 +6,3 @@
 2. Q-learning：强化学习实现立场检测
 3. main:阅读文献等
 
-
-
-<img src=".\图片.png" alt="image-20220302132533312" style="zoom: 50%;" />
